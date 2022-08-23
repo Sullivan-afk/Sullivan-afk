@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sullivan-afk
+- 👀 I’m interested in computers, programming/coding, movies, games
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on basic python programs
+- 📫 How to reach me sullivanryanclarke@gmail.com and clasul9006@wataugaschools.org
